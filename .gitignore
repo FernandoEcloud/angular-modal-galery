@@ -1,0 +1,63 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Node template
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Yarn Integrity file
+.yarn-integrity
+
+# IntelliJ
+.idea
+
+# dotenv environment variables file
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.metadata.json
+*.ngfactory.ts
+*.ngsummary.json
+**/dist
+**/aot
+**/.awcache
+**/dll
+/angular-modal-gallery/
+
+# Docs
+/docs/
+
+# Tests
+**/coverage/
+
+# SonarQube
+.scannerwork/
+/reports/
+
+# Examples
+/examples/systemjs/app/*.js
+/examples/systemjs/app/*.map
+/examples/webpack/docs/
+/examples/webpack/dist/
+/examples/angular-cli/dist/
+/examples/angular-cli-material/dist/
+/examples/universal-starter/dist/
